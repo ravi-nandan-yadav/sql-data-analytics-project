@@ -27,3 +27,10 @@ They follow a logical order—from initializing the database to generating advan
 2. **Exploration (01–05)** – Understand structure, dimensions, and key metrics.  
 3. **Analysis (06–11)** – Perform ranking, trend, segmentation, and ratio studies.  
 4. **Reporting (12–13)** – Build ready-to-use SQL reports for BI tools.
+
+
+**Ravi Nandan Yadav**  
+📍 Gaya, India  
+📧 [ravinandanyadavwork@gmail.com](mailto:ravinandanyadavwork@gmail.com)  
+🔗 [GitHub Repository](https://github.com/ravi-nandan-yadav/sql-data-analytics-project)
+LinkedIN: https://www.linkedin.com/in/ravi-nandan-yadav-156a6a15a/
