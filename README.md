@@ -34,3 +34,4 @@ They follow a logical order—from initializing the database to generating advan
 📧 [ravinandanyadavwork@gmail.com](mailto:ravinandanyadavwork@gmail.com)  
 🔗 [GitHub Repository](https://github.com/ravi-nandan-yadav/sql-data-analytics-project)
 LinkedIN: https://www.linkedin.com/in/ravi-nandan-yadav-156a6a15a/
+Contact Number: 8507528999/8210710109
